@@ -1,8 +1,8 @@
-#AI Image Generator using MERN Stack
+# AI Image Generator using MERN Stack
 Welcome to my AI Image Generator project built using the MERn stack (MongoDB, Express.js, React, and Node.js).
 This is a full-stack project that utilizes artificial intelligence to generate images based on user inputs, similar to OpenAI's DALL-E. 
 
-#Project Overview
+# Project Overview
 The AI Image Generator is a web application that allows users to generate unique images based on a combination of text inputs
 and pre-defined image styles. The application uses a deep learning model that has been trained on a large dataset of images to 
 generate new images that match the user's input. The generated images can be downloaded or shared via social media.
