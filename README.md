@@ -21,7 +21,10 @@ The AI Image Generator is built using the following technologies:
 
 MongoDB: A NoSQL database used to store user data and image styles.
 Express.js: A server-side web application framework used to build the API endpoints for the application.
+
 React: A client-side JavaScript library used to build the user interface of the application.
+
 Node.js: A server-side JavaScript runtime used to run the API endpoints for the application.
+
 Cloudinary:
 OpenAi API:
